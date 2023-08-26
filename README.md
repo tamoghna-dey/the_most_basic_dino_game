@@ -1,2 +1,3 @@
 # The most basic dino game
-the name pretty much explains it :)
+The name pretty much explains it :)
+Click the link to play the game - https://tamoghna-dey.github.io/dino_game_webhost/
